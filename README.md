@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Divyansh Kumar Singh
 
-### MTech Hydraulic Engineering · IIT Kanpur · Quant Researcher · Developer
+### MTech Hydraulic Engineering · IIT Kanpur · 
 
 📍 Bhilai, Chhattisgarh, India &nbsp;|&nbsp; 📧 divyansh179@gmail.com
 
