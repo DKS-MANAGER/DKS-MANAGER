@@ -125,12 +125,98 @@ A full-featured Call Break card game for Android supporting 2–12 players over 
 
 ---
 
-### 🌊 [Civil Engineering Computational Lab](https://github.com/DKS-MANAGER/civil25)
-> MATLAB · Python · ERA5 · LaTeX
+## 🌊 Civil & Water Resources Projects
+*(IIT Kanpur & VNIT Nagpur)*
 
-Computational assignments in stochastic hydrology, streamflow frequency analysis, ERA5 reanalysis processing, lapse rate modelling, and FDM numerical methods.
+### ☁️ Atmospheric Column Analysis Using ERA5 Reanalysis
+> ERA5 NetCDF · MS Excel · Python · MATLAB · IIT Kanpur · Jul 2025 – Dec 2025
 
-`Stochastic models` · `ERA5 NetCDF` · `ACF analysis` · `LaTeX reports`
+Processing ERA5 NetCDF climate reanalysis data to analyse atmospheric lapse rates, lapse rate profiles, and stochastic hydrological patterns for water resources research.
+
+`ERA5 NetCDF` · `Lapse Rate Modelling` · `Stochastic Hydrology` · `Python` · `MATLAB`
+
+---
+
+### 🌀 Flow-Induced Vibration in Multiphase Flow Pipes
+> CFD · Water Engineering · Research · IIT Kanpur
+
+Investigating FIV in Oil & Gas and Power Generation pipelines — where design standards assume smooth conditions, but field failures are real safety and financial risks.
+
+`CFD` · `Multiphase Flow` · `Pipe Engineering` · `FIV Analysis`
+
+---
+
+### 🚦 Analysis of Start-Up Loss Time at Signalized Intersections
+> Drone Piloting · Data Analysis · VNIT Nagpur · Jun 2023 – May 2024
+
+Field study using drone piloting to collect data on driver behavior and traffic signal timing to reduce start-up lost time and improve intersection efficiency in Nagpur's mixed traffic conditions.
+
+`Drone Piloting` · `Traffic Engineering` · `Data Analysis` · `Field Study`
+
+---
+
+### 🏢 Analysis & Design of Apartment Building on ETABS
+> ETABS · MS Excel · Structural Engineering · VNIT Nagpur
+
+Complete structural analysis and design of all main elements of a multi-storey G+3 building — slabs, columns, beams — using ETABS. Load combinations, IS code compliance, and member sizing.
+
+`ETABS` · `IS Code` · `Structural Design` · `Load Analysis`
+
+---
+
+### 💧 Elevated Water Tank Design & Analysis — Seismic Zone IV
+> Seismic Design · Structural Engineering · ETABS · VNIT Nagpur
+
+Structural design and seismic analysis of elevated water storage tank in Seismic Zone IV. Applied IS codes for earthquake-resistant design of the tank and supporting structure.
+
+`Seismic Zone IV` · `IS Code` · `ETABS` · `Earthquake-Resistant Design`
+
+---
+
+### 📅 Project Management of Residential Building on MS Project
+> MS Project · Project Planning · VNIT Nagpur
+
+Comprehensive project timeline using Microsoft Project — detailed task sequencing, Gantt chart, network diagram, and resource management to ensure smooth execution of all construction phases.
+
+`MS Project` · `Gantt Chart` · `Network Diagram` · `Resource Management`
+
+---
+
+### 🗺️ Landfill Site Selection Using RS & GIS in India
+> QGis · Remote Sensing · Sustainable Development · VNIT Nagpur
+
+Study paper on landfill site selection using Remote Sensing and GIS. Multi-criteria spatial analysis considering technical, environmental, economic, and social factors.
+
+`QGis` · `Remote Sensing` · `Multi-Criteria Analysis` · `Sustainable Development`
+
+---
+
+## 📄 Research & Policy Writing
+
+### 🌏 [Comparative Democratic Institutional Analysis: South Korea vs. India](https://doi.org/10.13140/RG.2.2.32172.73605)
+> Political Analysis · Geopolitical Insight · Published · ResearchGate
+
+Institutional design, military influence, media freedom, electoral integrity. South Korea 32nd (7.75/10) vs India 41st (7.29/10).
+
+`Political Analysis` · `Geopolitical Insight` · `Comparative Study`
+
+---
+
+### 📚 [Comparative Analysis of Government School Systems: India vs. Denmark](https://doi.org/10.21203/rs.3.rs-7487959/v1)
+> Policy Research · Comparative Study · Published · Preprint
+
+Educational gaps and policy implications between Indian and Danish government school systems.
+
+`Policy Research` · `Comparative Study` · `Education Policy`
+
+---
+
+### 💊 [Pharma Fortunes: Financial Analysis of Indian Pharmaceutical Giants](https://doi.org/10.13140/RG.2.2.26404.54407)
+> Financial Analysis · Risk Assessment · Published · ResearchGate
+
+Multi-year analysis of Sun Pharma, Divis Labs, Cipla, and Torrent Pharma amid global policy tightening.
+
+`Financial Analysis` · `Risk Assessment` · `Pharmaceutical Sector`
 
 ---
 
@@ -138,7 +224,7 @@ Computational assignments in stochastic hydrology, streamflow frequency analysis
 
 <div align="center">
 
-![DKS-MANAGER's GitHub stats](https://github-readme-stats.vercel.app/api?username=DKS-MANAGER&show_icons=true&theme=dark&hide_border=true&count_private=true)
+![DKS-MANAGER's GitHub stats](https://github-readme-stats.vercel.app/api?username=DKS-MANAGER&show_icons=true&theme=dark&hide_border=true&count_private=false)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DKS-MANAGER&layout=compact&theme=dark&hide_border=true)
 
@@ -148,6 +234,5 @@ Computational assignments in stochastic hydrology, streamflow frequency analysis
 
 <div align="center">
 
-*"Markets are uncertain — models should be too."*
 *"The magic you are searching is in the work you are avoding."*
 </div>
