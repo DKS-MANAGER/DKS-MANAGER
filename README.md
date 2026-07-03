@@ -18,10 +18,11 @@
 - 🎓 **MTech Civil Engineering (Hydraulic)** — IIT Kanpur *(2025–2027)*
 - 🏛️ **BTech Civil Engineering** — VNIT Nagpur *(2020–2024)*
 - 👨‍🏫 **Teaching Assistant** at IIT Kanpur *(Aug 2025 – Present)*
+- 🌊 Researching **pipeline scour & sediment transport** using OpenFOAM/SedFOAM (MTech thesis)
 - 📈 Building **quant trading systems** with deep learning (CNN · LSTM · Attention)
 - 🌊 Researching **stochastic hydrology**, ERA5 climate modelling & water resource engineering
 - 📱 Developing **Android games** with Python/Kivy
-- 💡 Passionate about financial econometrics, ML, and sustainable infrastructure
+- 💡 Passionate about CFD, financial econometrics, ML, and sustainable infrastructure
 - 🔗 [LinkedIn](https://www.linkedin.com/in/divyansh-kumar-singh-92bb621b6)
 
 ---
@@ -31,8 +32,17 @@
 **Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 ![MATLAB](https://img.shields.io/badge/MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+
+**CFD / Simulation**
+
+![OpenFOAM](https://img.shields.io/badge/OpenFOAM-CFD-blue?style=flat-square)
+![SedFOAM](https://img.shields.io/badge/SedFOAM-Sediment%20Transport-blue?style=flat-square)
+![ParaView](https://img.shields.io/badge/ParaView-Visualization-blueviolet?style=flat-square)
+![blockMesh](https://img.shields.io/badge/blockMesh%2FsnappyHexMesh-Mesh-orange?style=flat-square)
 
 **ML / Data Science**
 
@@ -45,16 +55,12 @@
 ![SymPy](https://img.shields.io/badge/SymPy-3B5526?style=flat-square)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 
-**Concurrency**
-
-![Multiprocessing](https://img.shields.io/badge/Multiprocessing-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Multithreading](https://img.shields.io/badge/Multithreading-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
 **Tools**
 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux%2FWSL2-Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 ![Kivy](https://img.shields.io/badge/Kivy-Android-00ABA9?style=flat-square)
 
 **AI / Cloud**
@@ -97,6 +103,33 @@
 ---
 
 ## 📂 Featured Projects
+
+### 🌊 [2D Pipeline Scour — SedFOAM](https://github.com/DKS-MANAGER/2DPipelineScour)
+> OpenFOAM · SedFOAM · C++ · Two-Phase Flow · IIT Kanpur MTech Thesis
+
+2D OpenFOAM/SedFOAM simulation of scour beneath a submarine pipeline. Resolves bed evolution under steady current using sediment transport modeling. Active thesis research.
+
+`SedFOAM` · `Sediment Transport` · `Pipeline Scour` · `RANS Turbulence` · `blockMesh`
+
+---
+
+### 🔬 [2D Pipeline Scour — Extended (EXN)](https://github.com/DKS-MANAGER/2DPipelineScourEXN)
+> OpenFOAM · SedFOAM · C++ · Parametric Study
+
+Extended parametric variant of the base scour case — modified boundary conditions and mesh resolution for sensitivity analysis and comparison studies.
+
+`Parametric Study` · `SedFOAM` · `OpenFOAM` · `Scour Comparison`
+
+---
+
+### 📚 [Civil Engineering Coursework — IIT Kanpur 2025–26](https://github.com/DKS-MANAGER/civil25)
+> MATLAB · Hydraulics · Numerical Methods · CE612 · CE613 · AE621 · ME630
+
+MTech coursework repo covering hydraulic engineering, numerical analysis, and applied mechanics. MATLAB scripts and assignment solutions.
+
+`MATLAB` · `Hydraulics` · `IIT Kanpur` · `Numerical Methods`
+
+---
 
 ### 🏦 [Silver Market Quant Trading System](https://github.com/DKS-MANAGER/Silvermarket)
 > CNN · BiLSTM · GRU · MultiHead Attention · XGBoost · Monte Carlo Dropout
@@ -234,5 +267,5 @@ Multi-year analysis of Sun Pharma, Divis Labs, Cipla, and Torrent Pharma amid gl
 
 <div align="center">
 
-*"The magic you are searching is in the work you are avoding."*
+*"The magic you are searching is in the work you are avoiding."*
 </div>
